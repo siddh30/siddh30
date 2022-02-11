@@ -29,9 +29,9 @@
       </style>
 
       <div class="tags">
-        <div class="tag">Vue</div>
-        <div class="tag">React</div>
-        <div class="tag">Svelte</div>
+        <div class="tag">Python</div>
+        <div class="tag">SQL</div>
+        <div class="tag">R</div>
         <div class="tag">Angular</div>
       </div>
       <div class="tags">
