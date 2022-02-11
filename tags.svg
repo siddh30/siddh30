@@ -8,7 +8,7 @@
           flex-wrap: wrap;
           height: 100%;
           width: 100%;
-          margin-bottom: 1px;
+          margin-bottom: 5px;
         }
         .tag {
           display: flex;
@@ -41,10 +41,8 @@
         <div class="tag">ML</div>
         <div class="tag">Deep Learning</div>
         <div class="tag">Statistics</div>
-        <div class="tag">Analytics</div>
-        
+        <div class="tag">Analytics</div>  
       </div>
-    
     </div>
   </foreignObject>
 </svg>
