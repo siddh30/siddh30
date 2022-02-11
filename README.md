@@ -10,11 +10,11 @@ I love working on projects involving Computer Vision, Natural Language Processin
 
 Some projects that I am really proud of...
 
-1)
+-
 
-2)
+-
 
-3)
+-
 
 
 
