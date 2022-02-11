@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/siddh30/siddh30/blob/main/My%20Data%20Science%20Portfolio.png" width="55%" height="55">
+<img src="https://github.com/siddh30/siddh30/blob/main/My%20Data%20Science%20Portfolio.png" width="75%" height="55">
 </p>	
 <img src="https://github.com/siddh30/siddh30/blob/main/waves.svg" width="100%" height="125">
 
