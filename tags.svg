@@ -23,7 +23,7 @@
           white-space: nowrap;
           font-family:sans-serif;
           background-color: #e3ffff;
-          color: #0ca4a5;
+          color: #FFA500;
           margin: 0.125em;
         }
       </style>
