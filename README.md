@@ -10,5 +10,5 @@ I love working on projects involving Computer Vision, Natural Language Processin
 
 
 
-<p align="center">
+<p align="right">
 <img src="https://github.com/siddh30/siddh30/blob/main/tags.svg" width="100%" height="125"> </p>
