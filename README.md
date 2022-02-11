@@ -11,18 +11,15 @@ I love working on projects involving Computer Vision, Natural Language Processin
 Some projects that I am really proud of...
 
 - Amazon Sentiment Analysis
-
-https://github.com/siddh30/Amazon-Sentiment-Analysis
+<p>https://github.com/siddh30/Amazon-Sentiment-Analysis</p>
 
 
 - FastFoodie - Restaurant Recommendation
-
 https://share.streamlit.io/siddh30/fastfoodie-a-restaurant-recommendation-app/Main_App.py
 
 
 
 - Facial Keypoints Detection
-
 https://github.com/siddh30/Facial-Keypoints-Detection
 
 
