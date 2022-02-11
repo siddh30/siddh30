@@ -33,17 +33,7 @@
         <div class="tag">SQL</div>
         <div class="tag">R</div>
       </div>
-      <div class="tags">
-        <div class="tag">SASS</div>
-        <div class="tag">TypeScript</div>
-        <div class="tag">Atomic Design</div>
-      </div>
-      <div class="tags">
-        <div class="tag">Ionic</div>
-        <div class="tag">Electron</div>
-        <div class="tag">PWAs</div>
-      </div>
-
+    
     </div>
   </foreignObject>
 </svg>
