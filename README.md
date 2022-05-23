@@ -3,7 +3,7 @@
 </p>	
 <img src="https://github.com/siddh30/siddh30/blob/main/waves.svg" width="100%" height="125">
 
- ###### *(Switch to light mode for better UI experience)* 
+ ###### *(Switch to light mode for a better UI experience)* 
 
 As a data enthusiast, I have an undying love for the applications of Machine Learning and Analytics. I have a passion for crunching insights from data to help organizations make key profitable business decisions. Being dedicated to functionality and curious about what's ahead of the curve, I keep my work practical, relevant, and creative.
 
