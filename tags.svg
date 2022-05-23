@@ -23,7 +23,7 @@
           white-space: nowrap;
           font-family:sans-serif;
           background-color:#303030;
-          color: rgb(255,99,71);
+          color: rgb(220,20,60,0.1);
           margin: 0.125em;
         }
       </style>
