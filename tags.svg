@@ -22,7 +22,7 @@
           width: fit-content;
           white-space: nowrap;
           font-family:sans-serif;
-          background-color:#303030;
+          background-color: #404040;
           color: rgb(240,75,75);
           margin: 0.125em;
         }
