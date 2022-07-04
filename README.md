@@ -23,9 +23,11 @@ My repositories are organized as :-
  - https://github.com/siddh30/Yahoo-Music-Recommendation
  
 3. Natural Language Processing
+
    https://github.com/siddh30/Amazon-Sentiment-Analysis
 
 4. Data Mining with R
+
    https://github.com/siddh30/The-Airbnb-Classification-Project
  
 5. Python
@@ -33,5 +35,6 @@ My repositories are organized as :-
  - https://github.com/siddh30/SID-THE-AI-ASSISTANT
 
 6. Certification and Publications
+
    https://github.com/siddh30/Certifcates_and_Publications
  
