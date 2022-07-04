@@ -11,27 +11,28 @@ I love working on projects involving Computer Vision, Natural Language Processin
 
 My repositories are organized as :-
 
-1. Computer Vision
+Computer Vision
  - https://github.com/siddh30/Digit_Recognizer-Kaggle-Top_15
  - https://github.com/siddh30/Glasses-Detection
  - https://github.com/siddh30/Histopathologic-Cancer-Detection
  - https://github.com/siddh30/Facial-Keypoints-Detection
+
  
-2. Recommender Systems
+Recommender Systems
  - https://github.com/siddh30/2020-Summer-Honors-Research
  - https://github.com/siddh30/FastFoodie-A-Restaurant-Recommendation-App
  - https://github.com/siddh30/Yahoo-Music-Recommendation
  
-3. Natural Language Processing
+Natural Language Processing
 https://github.com/siddh30/Amazon-Sentiment-Analysis
 
-4. Data Mining with R
+Data Mining with R
 https://github.com/siddh30/The-Airbnb-Classification-Project
  
-5. Python
+Python
  - https://github.com/siddh30/Guess-The-Word
  - https://github.com/siddh30/SID-THE-AI-ASSISTANT
 
-6. Certification and Publications
+Certification and Publications
 https://github.com/siddh30/Certifcates_and_Publications
  
