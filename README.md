@@ -11,27 +11,27 @@ I love working on projects involving Computer Vision, Natural Language Processin
 
 My repositories are organized as :-
 
-- Computer Vision
- 1. https://github.com/siddh30/Digit_Recognizer-Kaggle-Top_15
- 2. https://github.com/siddh30/Glasses-Detection
- 3. https://github.com/siddh30/Histopathologic-Cancer-Detection
- 4. https://github.com/siddh30/Facial-Keypoints-Detection
+1. Computer Vision
+ - https://github.com/siddh30/Digit_Recognizer-Kaggle-Top_15
+ - https://github.com/siddh30/Glasses-Detection
+ - https://github.com/siddh30/Histopathologic-Cancer-Detection
+ - https://github.com/siddh30/Facial-Keypoints-Detection
  
-- Recommender Systems
- 1. https://github.com/siddh30/2020-Summer-Honors-Research
- 2. https://github.com/siddh30/FastFoodie-A-Restaurant-Recommendation-App
- 3. https://github.com/siddh30/Yahoo-Music-Recommendation
+2. Recommender Systems
+ - https://github.com/siddh30/2020-Summer-Honors-Research
+ - https://github.com/siddh30/FastFoodie-A-Restaurant-Recommendation-App
+ - https://github.com/siddh30/Yahoo-Music-Recommendation
  
-- NLP
- 1. https://github.com/siddh30/Amazon-Sentiment-Analysis
+3. NLP
+ - https://github.com/siddh30/Amazon-Sentiment-Analysis
 
-- Data Mining with R
- 1. https://github.com/siddh30/The-Airbnb-Classification-Project
+4. Data Mining with R
+ - https://github.com/siddh30/The-Airbnb-Classification-Project
  
-- Python
- 1. https://github.com/siddh30/Guess-The-Word
- 2. https://github.com/siddh30/SID-THE-AI-ASSISTANT
+5. Python
+ - https://github.com/siddh30/Guess-The-Word
+ - https://github.com/siddh30/SID-THE-AI-ASSISTANT
 
-- Certification and Publications
- 1. https://github.com/siddh30/Certifcates_and_Publications
+6 Certification and Publications
+ - https://github.com/siddh30/Certifcates_and_Publications
  
