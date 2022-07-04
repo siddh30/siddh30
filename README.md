@@ -30,7 +30,7 @@ My repositories are organized as :-
 ***Data Mining with R***
  - https://github.com/siddh30/The-Airbnb-Classification-Project
  
-***Python***
+***Python Projects***
  - https://github.com/siddh30/Guess-The-Word
  - https://github.com/siddh30/SID-THE-AI-ASSISTANT
 
