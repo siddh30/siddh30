@@ -12,6 +12,7 @@ I love working on projects involving Computer Vision, Natural Language Processin
 My repositories are organized as :-
 
 ***Computer Vision***
+ - https://github.com/siddh30/Chocolate-Classification
  - https://github.com/siddh30/Digit_Recognizer-Kaggle-Top_15
  - https://github.com/siddh30/Glasses-Detection
  - https://github.com/siddh30/Histopathologic-Cancer-Detection
