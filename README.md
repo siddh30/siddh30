@@ -13,10 +13,9 @@ I am a novice blogger beginning my journey on Medium with a mission to provide a
 https://medium.com/@siddh30. 
 
 
-```
 I am aslo a Kaggle expert and love contributing the community.</br>
 https://www.kaggle.com/siddharthmandgi
-```
+
 
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/siddharthmandgi/dataset/light)
 
