@@ -17,7 +17,7 @@ I am aslo a Kaggle expert and love contributing the community.</br>
 https://www.kaggle.com/siddharthmandgi
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/siddharthmandgi/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/siddharthmandgi/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/siddharthmandgi/dataset/light)
 
 My repositories are organized as :-
 
