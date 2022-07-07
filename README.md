@@ -11,6 +11,7 @@ I love working on projects involving Computer Vision, Natural Language Processin
 
 
 I am aslo a Kaggle expert and love contributing the community
+https://www.kaggle.com/siddharthmandgi
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/siddharthmandgi/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/siddharthmandgi/dataset)
