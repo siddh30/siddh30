@@ -9,7 +9,8 @@ As a data enthusiast, I have an undying love for the applications of Machine Lea
 
 I love working on projects involving Computer Vision, Natural Language Processing, Recommender Systems, and Python is my go-to language for programming. I am also a novice blogger beginning my journey on Medium with a mission to provide a structural understanding of Data Science. https://medium.com/@siddh30.
 
-![I_am_sid](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{I_am_sid})
+![siddharthmandgi ](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{siddharthmandgi })
+![siddharthmandgi ](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{siddharthmandgi}/dataset)
 
 My repositories are organized as :-
 
