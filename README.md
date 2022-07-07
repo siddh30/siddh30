@@ -20,8 +20,8 @@ I am aslo a Kaggle expert and love contributing the community.</br>
 https://www.kaggle.com/siddharthmandgi
 
 
-<img src = 'https://road-to-kaggle-grandmaster.vercel.app/api/badges/siddharthmandgi/competition/light'>
-<img src = 'https://road-to-kaggle-grandmaster.vercel.app/api/badges/siddharthmandgi/dataset/light'>
+![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/siddharthmandgi/competition/light)
+![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/siddharthmandgi/dataset/light)
 
  
  
