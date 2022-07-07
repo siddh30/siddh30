@@ -10,7 +10,7 @@ As a data enthusiast, I have an undying love for the applications of Machine Lea
 I love working on projects involving Computer Vision, Natural Language Processing, Recommender Systems, and Python is my go-to language for programming. I am also a novice blogger beginning my journey on Medium with a mission to provide a structural understanding of Data Science. https://medium.com/@siddh30. 
 
 
-I am aslo a Kaggle expert and love contributing the community
+I am aslo a Kaggle expert and love contributing the community.</br>
 https://www.kaggle.com/siddharthmandgi
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/siddharthmandgi/competition)
