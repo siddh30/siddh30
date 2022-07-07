@@ -15,13 +15,12 @@ https://medium.com/@siddh30.
 
 
 
-<p float='left'>
+<p float='right'>
  
 I am aslo a Kaggle expert and love contributing the community.</br>
 https://www.kaggle.com/siddharthmandgi
 
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/siddharthmandgi/dataset/light)
-
 
 </p> 
 
