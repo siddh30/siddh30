@@ -16,7 +16,7 @@ https://medium.com/@siddh30.
 
 
 
-I am aslo a Kaggle expert and love contributing the community.</br>
+I am aslo a Kaggle expert and love contributing to the community.</br>
 https://www.kaggle.com/siddharthmandgi
 
 
