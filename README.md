@@ -41,7 +41,7 @@ My repositories are organized as :-
  - https://github.com/siddh30/Yahoo-Music-Recommendation
  
  
-***<ins>Data Mining with R****</ins>
+***<ins>Data Mining with R***</ins>
  - https://github.com/siddh30/The-Airbnb-Classification-Project
  
  
