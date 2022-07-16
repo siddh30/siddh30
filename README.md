@@ -14,7 +14,7 @@ I am a novice blogger beginning my journey on Medium with a mission to provide a
 I am aslo a 2x Kaggle Expert and love contributing to the community.</br>
 https://www.kaggle.com/siddharthmandgi. </p>
 
-![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/siddharthmandgi/code/light)
+![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/siddharthmandgi/notebook/light)
 ![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/siddharthmandgi/dataset/light)
 
 
