@@ -11,9 +11,10 @@ I love working on projects involving Computer Vision, Natural Language Processin
 I am a novice blogger beginning my journey on Medium with a mission to provide a structural understanding of Data Science - https://medium.com/@siddh30. 
 
 
-I am aslo a Kaggle's Dataset expert and love contributing to the community.</br>
+I am aslo a 2x Kaggle Expert and love contributing to the community.</br>
 https://www.kaggle.com/siddharthmandgi. </p>
 
+![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/siddharthmandgi/codes/light)
 ![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/siddharthmandgi/dataset/light)
 
 
