@@ -5,17 +5,18 @@
 
  ###### *(Switch to light mode for a better UI experience)* 
 
-As a data enthusiast, I have an undying love for the applications of Machine Learning and Analytics. I have a passion for crunching insights from data to help organizations make key profitable business decisions. Being dedicated to functionality and curious about what's ahead of the curve, I keep my work practical, relevant, and creative.
+Data Science is not just a carreer path for me but also my hobby and passion and as a data fanatic, I love working on projects which involve the applications of Machine Learning and AI. My Github, thus is a porftolio of all my research in Predictive Modeling and Analytics and I take pride in contributing to the world of Artifical Intelligence. 
 
-I love working on projects involving Computer Vision, Natural Language Processing, Recommender Systems, and Python is my go-to language for programming.
-I am a novice blogger beginning my journey on Medium with a mission to provide a structural understanding of Data Science - https://medium.com/@siddh30. 
+Blogging - Check out my articles on Data Science @***Medium*** </br>
+https://medium.com/@siddh30
 
 
-I am aslo a 2x Kaggle Expert and love contributing to the community.</br>
-https://www.kaggle.com/siddharthmandgi. </p>
+I am also a 2x Kaggle Expert </br>
+https://www.kaggle.com/siddharthmandgi </p>
 
 ![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/siddharthmandgi/notebook/light)
 ![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/siddharthmandgi/dataset/light)
+
 
 
 My repositories are organized as :-
@@ -53,4 +54,5 @@ My repositories are organized as :-
 
 ***<ins>Certification and Publications***</ins>
  - https://github.com/siddh30/Certifcates_and_Publications
+ 
  
