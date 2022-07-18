@@ -5,7 +5,7 @@
 
  ###### *(Switch to light mode for a better UI experience)* 
 
-Data Science is not just a carreer path for me but also my hobby and passion and as a data fanatic, I love working on projects which involve the applications of Machine Learning and AI. My Github, thus is a porftolio of all my research in Predictive Modeling and Analytics and I take pride in contributing to the world of Artifical Intelligence. 
+Data Science is not just a carreer path for me but also my hobby and passion. As a data fanatic, I love working on projects which involve the applications of Machine Learning and AI. My Github, thus is a porftolio of all my research in Predictive Modeling and Analytics and I take pride in contributing to the world of Artifical Intelligence. 
 
 Blogging - Check out my articles on Data Science @***Medium*** </br>
 https://medium.com/@siddh30
