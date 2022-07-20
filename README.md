@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/siddh30/siddh30/blob/main/logo_final.png" width="45%" height="15%">
+<img src="https://github.com/siddh30/siddh30/blob/main/Welcome_logo.png" width="45%" height="35%">
 </p>	
 <img src="https://github.com/siddh30/siddh30/blob/main/waves.svg" width="100%" height="125">
 
