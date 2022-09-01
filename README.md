@@ -8,7 +8,7 @@ Data Science is not just a carreer path for me but also my hobby and passion. As
 Blogging - Check out my articles on Data Science @***Medium*** </br>
 https://medium.com/@siddh30
 
-Coding - My Hackkerank Profile
+Coding - My Hackkerank Profile </br>
 https://www.hackerrank.com/sid_0_o
 
 
