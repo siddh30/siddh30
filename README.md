@@ -8,8 +8,11 @@ Data Science is not just a carreer path for me but also my hobby and passion. As
 Blogging - Check out my articles on Data Science @***Medium*** </br>
 https://medium.com/@siddh30
 
+Coding - My Hackkerank Profile
+https://www.hackerrank.com/sid_0_o
 
-I am also a 2x Kaggle Expert </br>
+
+Communities - I am also a 2x Kaggle Expert </br>
 https://www.kaggle.com/siddharthmandgi </p>
 
 ![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/siddharthmandgi/notebook/light)
