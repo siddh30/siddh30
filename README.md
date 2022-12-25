@@ -20,6 +20,12 @@ https://www.kaggle.com/siddharthmandgi </p>
 
 My repositories are organized as :-
 
+<details><summary>Computer Vision</summary>
+
+[Chocolate Classification](https://github.com/siddh30/Chocolate-Classification)
+
+</details>
+
 <ins>***Computer Vision***</ins>
  - https://github.com/siddh30/Chocolate-Classification
  - https://github.com/siddh30/Digit_Recognizer-Kaggle-Top_15
