@@ -60,7 +60,7 @@ My repositories are organized as :-
 <details><summary><i><b>Python Projects</b></i></summary> 
  
  - [Guess the word](https://github.com/siddh30/Guess-The-Word)
- - [SID - THE AI ASSISTANT](https://github.com/siddh30/SID-THE-AI-ASSISTANT)
+ - [SID - The AI Assistant](https://github.com/siddh30/SID-THE-AI-ASSISTANT)
  
  </details>
 
