@@ -20,46 +20,56 @@ https://www.kaggle.com/siddharthmandgi </p>
 
 My repositories are organized as :-
 
-<details><summary>Computer Vision</summary>
-
-[Chocolate Classification](https://github.com/siddh30/Chocolate-Classification)
+<details><summary><i><b>Computer Vision</b></i></summary>
+ 
+- [Chocolate Classification](https://github.com/siddh30/Chocolate-Classification)
+- [Digit Recognizer Kaggle Top 15](https://github.com/siddh30/Digit_Recognizer-Kaggle-Top_15)
+- [Glasses Detection](https://github.com/siddh30/Glasses-Detection)
+- [Histopathologic Cancer Detection](https://github.com/siddh30/Histopathologic-Cancer-Detection)
+- [Facial Keypoints Detection](https://github.com/siddh30/Facial-Keypoints-Detection)
 
 </details>
 
-<ins>***Computer Vision***</ins>
- - https://github.com/siddh30/Chocolate-Classification
- - https://github.com/siddh30/Digit_Recognizer-Kaggle-Top_15
- - https://github.com/siddh30/Glasses-Detection
- - https://github.com/siddh30/Histopathologic-Cancer-Detection
- - https://github.com/siddh30/Facial-Keypoints-Detection
+<details><summary><i><b>Audio Classification</b></i></summary>  
  
+- [Singer VS Rapper Audio Classification](https://github.com/siddh30/Singer-VS-Rapper-Audio-Classification)
  
-<ins>***Audio Classification***</ins>
-- https://github.com/siddh30/Singer-VS-Rapper-Audio-Classification
+</details>
 
-
-***<ins>Natural Language Processing***</ins>
- - https://github.com/siddh30/Amazon-Sentiment-Analysis
+<details><summary><i><b>Natural Language Processing</b></i></summary> 
  
+ - [Amazon-Sentiment-Analysis](https://github.com/siddh30/Amazon-Sentiment-Analysis)
  
-***<ins>Recommender Systems***</ins>
- - https://github.com/siddh30/2020-Summer-Honors-Research
- - https://github.com/siddh30/FastFoodie-A-Restaurant-Recommendation-App
- - https://github.com/siddh30/Yahoo-Music-Recommendation
+ </details>
  
+<details><summary><i><b>Recommender Systems</b></i></summary> 
  
-***<ins>Data Mining with R***</ins>
- - https://github.com/siddh30/The-Airbnb-Classification-Project
+ - [2020 Summer Honors Research](https://github.com/siddh30/2020-Summer-Honors-Research)
+ - [FastFoodie - A Restaurant Recommendation App](https://github.com/siddh30/FastFoodie-A-Restaurant-Recommendation-App)
+ - [Yahoo Music Recommendation](https://github.com/siddh30/Yahoo-Music-Recommendation)
  
- 
-***<ins>Python Projects***</ins>
- - https://github.com/siddh30/Guess-The-Word
- - https://github.com/siddh30/SID-THE-AI-ASSISTANT
+ </details>
  
 
-***<ins>Certification and Publications***</ins>
- - https://github.com/siddh30/Certifcates_and_Publications
+<details><summary><i><b>Data Mining with R</b></i></summary> 
  
+ - [The Airbnb Classification Project](https://github.com/siddh30/The-Airbnb-Classification-Project)
+ 
+ </details>
  
 
+<details><summary><i><b>Python Projects</b></i></summary> 
+ 
+ - [Guess the word](https://github.com/siddh30/Guess-The-Word)
+ - [SID - THE AI ASSISTANT](https://github.com/siddh30/SID-THE-AI-ASSISTANT)
+ 
+ </details>
+
+<details><summary><i><b>Extras</b></i></summary> 
+ 
+- [Certifications and Publications](https://github.com/siddh30/Certifcates_and_Publications)
+ 
+ </details>
+ 
+ 
 
