@@ -14,11 +14,8 @@ https://www.hackerrank.com/sid_0_o
 Communities - I am also a 2x Kaggle Expert </br>
 https://www.kaggle.com/siddharthmandgi </p>
 
-![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/siddharthmandgi/notebook/light)
-![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/siddharthmandgi/dataset/light)
 
 My repositories are organized as :-
-
 <details><summary><i><b>Computer Vision</b></i></summary>
  
 - [Chocolate Classification](https://github.com/siddh30/Chocolate-Classification)
@@ -67,7 +64,6 @@ My repositories are organized as :-
 <details><summary><i><b>Extras</b></i></summary> 
  
 - [Certifications and Publications](https://github.com/siddh30/Certifcates_and_Publications)
- 
  </details>
  
  
