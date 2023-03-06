@@ -35,6 +35,7 @@ https://www.kaggle.com/siddharthmandgi </p>
   <details><summary><i><b>Natural Language Processing</b></i></summary> 
 
    - [Amazon-Sentiment-Analysis](https://github.com/siddh30/Amazon-Sentiment-Analysis)
+   - [Twitter-Sentiment-Analysis](https://github.com/siddh30/Twitter-Sentiment-Analysis)
 
    </details>
 
