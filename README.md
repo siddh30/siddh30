@@ -43,8 +43,7 @@ https://www.kaggle.com/siddharthmandgi </p>
 
    - [2020 Summer Honors Research](https://github.com/siddh30/2020-Summer-Honors-Research)
    - [FastFoodie - A Restaurant Recommendation App](https://github.com/siddh30/FastFoodie-A-Restaurant-Recommendation-App)
-   - [Yahoo Music Recommendation](https://github.com/siddh30/Yahoo-Music-Recommendation)
-
+   
    </details>
 
 
