@@ -36,6 +36,8 @@ https://www.kaggle.com/siddharthmandgi </p>
 
    - [Amazon-Sentiment-Analysis](https://github.com/siddh30/Amazon-Sentiment-Analysis)
    - [Twitter-Sentiment-Analysis](https://github.com/siddh30/Twitter-Sentiment-Analysis)
+   - [GPT-Powered-Peronalized-Inmail-Generator](https://github.com/siddh30/GPT-Powered-Peronalized-Inmail-Generator)
+  
 
    </details>
 
