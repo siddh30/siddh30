@@ -4,6 +4,16 @@
 
 Welcome to my Github porftolio, a one-stop-shop for all my projects and research in Machine Learning & AI. I love working on projects involving Natural Language Processing, Computer Vision, Recommender Systems, and Python.
 
+### Featured project: [Prometheus, a voice assistant for macOS that talks *and* acts](https://github.com/siddh30/prometheus-voice-control)
+
+Say its name and it works in your own Chrome, uses the screen and mouse, shows its plan, and learns from what works. [Design doc](https://github.com/siddh30/prometheus-voice-control/blob/main/DESIGN.md)
+
+<p align="center">
+<a href="https://github.com/siddh30/prometheus-voice-control">
+  <img src="https://raw.githubusercontent.com/siddh30/prometheus-voice-control/main/docs/widget.png" alt="Prometheus working through a job search" width="420">
+</a>
+</p>
+
 - Check out my articles on Data Science @***Medium*** </br>
 https://medium.com/@siddh30
 
@@ -60,6 +70,7 @@ https://www.kaggle.com/siddharthmandgi </p>
 
    - [Guess the word](https://github.com/siddh30/Guess-The-Word)
    - [SID - The AI Assistant](https://github.com/siddh30/SID-THE-AI-ASSISTANT)
+   - [Prometheus - a voice assistant that talks and acts](https://github.com/siddh30/prometheus-voice-control)
 
    </details>
 
